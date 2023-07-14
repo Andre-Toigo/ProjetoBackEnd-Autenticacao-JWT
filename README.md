@@ -4,21 +4,10 @@
 </p>
 
 <h4> Projeto para criação de login e autenticação de uma API RESTful, utilizando autenticação JWT. </h4>
-<h5> Realizado em Java Spring Boot, visa criar a autenticação de uma API RESTful para controle de....
-Possui os models de ..., seus controllers, services, e repositories. </h5> 
+<h5> Realizado em Java Spring Boot, visa criar a autenticação de uma API RESTful para realizar o login de usuário, com disparo autómatico de email para confirmar se a autenticação foi bem sucedida. </h5> 
 <br>
 
 
-
-`Características:`
-
-- Modelo:<br>
-    Produto - id, nome, quantidade, valor, observacao.<br>
-   
-- Controller, service e repository de produto e cliente:<br>
-    obterTodos, obterPorId, adicionar, atualizar, deletar.
-
-<br>
 
 
 ## :heavy_check_mark: Tecnologia usada
