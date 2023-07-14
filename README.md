@@ -1,6 +1,6 @@
 # ProjetoBackEnd-Autenticacao-JWT
 
-<img src="https://img.shields.io/badge/Version-1.0.0-darkblue"/> <img src="https://img.shields.io/badge/Release%20Date-May__05-darkviolet">
+<img src="https://img.shields.io/badge/Version-1.0.0-darkblue"/> <img src="https://img.shields.io/badge/Release%20Date-July__04-darkviolet">
 </p>
 
 <h4> Projeto para criação de login e autenticação de uma API RESTful, utilizando autenticação JWT. </h4>
@@ -14,7 +14,7 @@
 - `Java, Spring Boot`
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Andre-Toigo/ProjetoBackEnd-API-RESTful).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Andre-Toigo/ProjetoBackEnd-Autenticacao-JWT).
 
 ## Autor:
 
